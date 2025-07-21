@@ -1,8 +1,8 @@
-spring:
+tyspring:
   datasource:
     url: jdbc:mysql://localhost:3306/hospital_db
     username: root
-    password: yourpassword
+    password: SecuritY@1
   jpa:
     hibernate:
       ddl-auto: update
